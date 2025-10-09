@@ -2,6 +2,7 @@
   "name": "react-essentials-deep-dive-adv",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://OmarHasanen8.github.io/07-tic-tac-toe-starting-project-2",
   "type": "module",
   "scripts": {
     "dev": "vite",
